@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480912916421",
+    "project_id": "prueba-tecnica-696d6",
+    "storage_bucket": "prueba-tecnica-696d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480912916421:android:cd9cfe10122087526915ac",
+        "android_client_info": {
+          "package_name": "com.example.prueba_tecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTfN3Gw5MfWsQ25lPCcWDd3owhBsKQuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
